@@ -3,7 +3,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/farrasmuttaqin/frStore-v1.5.svg)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/farrasmuttaqin/frStore-v1.5.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/farrasmuttaqin/frStore-v1.5.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/farrasmuttaqin/frStore-v1.5.svg)
 
 
 # frStore-v1.5 :iphone:
